@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class DSA4 {
+public class DSA46 {
 
     static void stringCount(String str){
         int len = str.length();
